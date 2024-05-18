@@ -73,7 +73,7 @@ const Login: React.FC = () => {
                     color="white"
                   />
                   <Button type="submit" colorScheme="blue">
-                    Login
+                    React Application
                   </Button>
                 </VStack>
               </Box>
