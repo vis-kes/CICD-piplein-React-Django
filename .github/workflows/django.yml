@@ -27,7 +27,7 @@ jobs:
         pip install -r requirements.txt
     - name: Run Tests
       run: |
-        python /Computex/manage.py test
+        python /Assignment/E-to-E/Computex/manage.py test
   
   Publish_to_dockerhub:
     # Add a dependency to the build job
