@@ -52,7 +52,7 @@ const Login: React.FC = () => {
         >
           <VStack spacing={4} w="sm">
             <Box fontSize="xl" color="white">
-              This is react
+              This is react application.
             </Box>
             {showForm && (
               <Box as="form" w="100%" onSubmit={handleSubmit}>
